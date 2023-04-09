@@ -1,1 +1,1 @@
-# Algorithm Exercise of the book: *Coding Interviews: Questions, Analysis and Solutions*
+# Algorithm Exercise of *Coding Interviews: Questions, Analysis and Solutions*
