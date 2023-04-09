@@ -90,7 +90,9 @@ ListNode* DeleteNode(ListNode* head, int val);
 void DeleteDuplication(ListNode** pHead);
 
 // Question 19
-bool MatchRegularExpression(string str, string pattern);
+bool MatchRegularExpression(string s, string p);
+
+string CutString(string& s, int n);
 
 // Question 20
 bool IsNumber(string s);
@@ -100,4 +102,7 @@ string CutNumString(string& s);
 bool ScanInteger(string& s);
 
 bool ScanUnsignedInteger(string& s);
+
+// Question 21
+vector<int> Reorder(vector<int>& nums);
 }
